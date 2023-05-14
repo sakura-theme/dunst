@@ -6,8 +6,8 @@
 
 ## Installation
 
-Clone this repository and move `/path/to/dunst/dunstrc` to `~/.config/dunst/dunstrc`.
+Clone this repository and copy `/path/to/dunst/dunstrc` to `~/.config/dunst/dunstrc`.
 
 ```
-git clone https://github.com/sakura-theme/dunst.git /path/to
+git clone https://github.com/sakura-theme/dunst.git /path/to/dunst
 ```
